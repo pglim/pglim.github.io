@@ -44,7 +44,7 @@ area
 
 ## 4. Sample of output run from Shinyapps.io
 
-![width]("UM.png")
+![width](UM.png)
 
 --- .class #id 
 
