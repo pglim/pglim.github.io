@@ -38,6 +38,9 @@ area
 ```
 ## [1] 7853.98
 ```
+
+
+
 ## Areas for default radius of 50 is 7853.98
 
 --- .class #id 
@@ -53,9 +56,9 @@ area
 
 ### A. Link for the source code for server.R and ui.R:
 
-https://github.com/pglim/Developing-Data-Products.git
+https://github.com/pglim/Developing-Data-Products/tree/master/shiny
 
 ### B. Link for running the application :
 
-https://github.com/pglim/Developing-Data-Products/tree/master/shiny
+https://pglim.shinyapps.io/shiny
 
