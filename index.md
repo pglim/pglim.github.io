@@ -57,5 +57,5 @@ https://github.com/pglim/Developing-Data-Products.git
 
 ### B. Link for running the application :
 
-https://pglim.shinyapps.io/shiny
+https://github.com/pglim/Developing-Data-Products/tree/master/shiny
 
